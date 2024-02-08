@@ -73,7 +73,7 @@ params:
       - text: "SherpaSec is supported by dedicated sponsors and community partners, enabling us to deliver valuable content and services to our audience. Together, we strive to build a stronger, more connected community."
     links:
       - text: Meet our partners and sponsors
-        url: "#"
+        url: "/community-partners"
     logos:
       - identifier: a
         image: "images/global/DALL-E-IMG5.webp"
@@ -117,7 +117,7 @@ menu:
     #   weight: 10
     - identifier: about
       name: About
-      url: /about/
+      url: about/
       weight: 20
     - identifier: categories
       pre: dropdown
